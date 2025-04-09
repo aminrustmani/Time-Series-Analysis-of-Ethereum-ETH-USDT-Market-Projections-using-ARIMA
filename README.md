@@ -7,6 +7,7 @@
 In this project, I performed a time series analysis on Ethereum’s (ETH/USDT) historical price data to forecast future values using the ARIMA model. This analysis showcases how traditional statistical methods can be applied to volatile and high-frequency financial markets like cryptocurrency.
 
 **🔧 Tools & Technologies**
+
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
