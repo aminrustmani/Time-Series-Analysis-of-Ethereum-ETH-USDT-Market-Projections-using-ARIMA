@@ -1,4 +1,5 @@
-📈 Time Series Forecasting of Ethereum (ETH/USDT) with ARIMA
+# 📈 Time Series Forecasting of Ethereum (ETH/USDT) with ARIMA
+
 🔬 Analyzing and predicting crypto market trends using statistical modeling
 
 🧠 Project Summary
